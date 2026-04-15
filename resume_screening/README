@@ -1,0 +1,14 @@
+## Features
+- Resume skill extraction
+- Job matching logic
+- Scoring system (0–100)
+- Explainable AI output
+- LangSmith tracing enabled
+
+## Tech Stack
+- LangChain
+- Groq (LLaMA 3)
+- Python
+
+## Notes
+Used Groq API 
